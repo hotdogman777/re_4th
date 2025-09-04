@@ -27,4 +27,4 @@
 
 <https://www.youtube.com/watch?v=l2kQKH1KD90>
 
-[이모티콘]<https://www.youtube.com/watch?v=l2kQKH1KD90>
+[이모티콘](https://www.youtube.com/watch?v=l2kQKH1KD90)
