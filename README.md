@@ -14,3 +14,17 @@
 ~~취소선~~
 
 :smile: , :alien:
+
+1. 순서1
+2. 순서2
+3. 순서3
+
++ 순서 없이1
++ 순서 없이2
++ 순서 없이3
+    + 하위 순서1
+    + 하위 순서2
+
+<https://www.youtube.com/watch?v=l2kQKH1KD90>
+
+[이모티콘]<https://www.youtube.com/watch?v=l2kQKH1KD90>
